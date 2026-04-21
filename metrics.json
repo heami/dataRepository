@@ -41,7 +41,7 @@
       } 
     }
   },
-"KJR": {
+  "KJR": {
     "journalTitle": "Korean Journal of Radiology",
     "ISSN": "1229-6929",
     "sourceID": "17255",
@@ -82,7 +82,7 @@
         "SNIP": "1.655"
       }
     }
-  }
+  },
   "JAS": {
     "journalTitle": "Journal of Animal Science",
     "metrics": {
