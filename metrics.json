@@ -1,0 +1,55 @@
+{
+  "CIOS": {
+    "journalTitle": "Clinics in Orthopedic Surgery",
+    "sourceID": "19700175784",
+    "metrics": {
+      "2020": {
+        "IF": "N.A.",
+        "IF_5yr": "N.A.",
+        "CiteScore": "3.3",
+        "SJR": "1.002",
+        "SNIP": "1.622"
+      },
+      "2021": {
+        "IF": "2.503",
+        "IF_5yr": "2.695",
+        "CiteScore": "4.1",
+        "SJR": "0.83",
+        "SNIP": "1.799"
+      },
+      "2022": {
+        "IF": "2.5",
+        "IF_5yr": "2.7",
+        "CiteScore": "4.0",
+        "SJR": "0.904",
+        "SNIP": "1.612"
+      },
+      "2023": {
+        "IF": "1.9",
+        "IF_5yr": "2.6",
+        "CiteScore": "3.5",
+        "SJR": "0.841",
+        "SNIP": "1.114"
+      },
+      "2024": {
+        "IF": "2.0",
+        "IF_5yr": "2.4",
+        "CiteScore": "3.0",
+        "SJR": "0.745",
+        "SNIP": "1.062"
+      } 
+    }
+  },
+  "JAS": {
+    "journalTitle": "Journal of Animal Science",
+    "metrics": {
+      "2025": {
+        "IF": "2.1",
+        "IF_5yr": "2.3",
+        "CiteScore": "4.0",
+        "SJR": "0.450",
+        "SNIP": "0.980"
+      }
+    }
+  }
+}
