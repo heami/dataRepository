@@ -1,4 +1,46 @@
 {
+  "JKMS": {
+    "journalTitle": "Journal of Korean Medical Science",
+    "ISSN": "1011-8934",
+    "sourceID": "19700201345",
+    "metrics": {
+      "2020": {
+        "IF": "2.153",
+        "IF_5yr": "2.467",
+        "CiteScore": "4.0",
+        "SJR": "0.743",
+        "SNIP": "1.201"
+      },
+      "2021": {
+        "IF": "5.354",
+        "IF_5yr": "3.783",
+        "CiteScore": "5.6",
+        "SJR": "1.037",
+        "SNIP": "1.412"
+      },
+      "2022": {
+        "IF": "4.5",
+        "IF_5yr": "3.4",
+        "CiteScore": "7.1",
+        "SJR": "0.989",
+        "SNIP": "1.159"
+      },
+      "2023": {
+        "IF": "3.0",
+        "IF_5yr": "2.7",
+        "CiteScore": "7.8",
+        "SJR": "0.78",
+        "SNIP": "0.85"
+      },
+      "2024": {
+        "IF": "2.3",
+        "IF_5yr": "2.5",
+        "CiteScore": "5.4",
+        "SJR": "0.765",
+        "SNIP": "0.836"
+      } 
+    }
+  },
   "NRP": {
     "journalTitle": "Nutrition Research and Practice",
     "ISSN": "1976-1457",
