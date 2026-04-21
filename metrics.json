@@ -41,6 +41,48 @@
       } 
     }
   },
+"KJR": {
+    "journalTitle": "Korean Journal of Radiology",
+    "ISSN": "1229-6929",
+    "sourceID": "17255",
+    "metrics": {
+      "2020": {
+        "IF": "3.500",
+        "IF_5yr": "3.947",
+        "CiteScore": "6.3",
+        "SJR": "1.08",
+        "SNIP": "1.403"
+      },
+      "2021": {
+        "IF": "7.109",
+        "IF_5yr": "5.937",
+        "CiteScore": "7.5",
+        "SJR": "1.364",
+        "SNIP": "1.892"
+      },
+      "2022": {
+        "IF": "4.8",
+        "IF_5yr": "4.7",
+        "CiteScore": "10.2",
+        "SJR": "1.348",
+        "SNIP": "1.767"
+      },
+      "2023": {
+        "IF": "4.4",
+        "IF_5yr": "4.1",
+        "CiteScore": "10.6",
+        "SJR": "1.235",
+        "SNIP": "1.621"
+      },
+      "2024": {
+        "IF": "4.4",
+        "IF_5yr": "5.4",
+        "CiteScore": "8.7",
+        "SJR": "1.237",
+        "SNIP": "1.655"
+      }
+    }
+  }
   "JAS": {
     "journalTitle": "Journal of Animal Science",
     "metrics": {
