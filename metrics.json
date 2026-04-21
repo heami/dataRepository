@@ -1,4 +1,46 @@
 {
+  "NRP": {
+    "journalTitle": "Nutrition Research and Practice",
+    "ISSN": "1976-1457",
+    "sourceID": "19700201345",
+    "metrics": {
+      "2020": {
+        "IF": "1.926",
+        "IF_5yr": "2.228",
+        "CiteScore": "3.2",
+        "SJR": "0.506",
+        "SNIP": "0.774"
+      },
+      "2021": {
+        "IF": "1.992",
+        "IF_5yr": "2.259",
+        "CiteScore": "3.2",
+        "SJR": "0.453",
+        "SNIP": "0.846"
+      },
+      "2022": {
+        "IF": "2.4",
+        "IF_5yr": "2.5",
+        "CiteScore": "3.5",
+        "SJR": "0.513",
+        "SNIP": "0.847"
+      },
+      "2023": {
+        "IF": "2.0",
+        "IF_5yr": "2.1",
+        "CiteScore": "3.5",
+        "SJR": "0.551",
+        "SNIP": "0.70"
+      },
+      "2024": {
+        "IF": "1.5",
+        "IF_5yr": "2.2",
+        "CiteScore": "3.5",
+        "SJR": "0.539",
+        "SNIP": "0.623"
+      } 
+    }
+  },
   "CIOS": {
     "journalTitle": "Clinics in Orthopedic Surgery",
     "ISSN": "2005-291X",
