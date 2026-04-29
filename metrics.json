@@ -251,6 +251,48 @@
       }
     }
   },
+  "ICU": {
+    "journalTitle": "Investigative and Clinical Urology",
+    "ISSN": "2466-0493",
+    "sourceID": "21100453520",
+    "metrics": {
+      "2020": {
+        "IF": "2.186",
+        "IF_5yr": "2.470",
+        "CiteScore": "3.0",
+        "SJR": "0.653",
+        "SNIP": "1.178"
+      },
+      "2021": {
+        "IF": "1.902",
+        "IF_5yr": "2.410",
+        "CiteScore": "3.0",
+        "SJR": "0.525",
+        "SNIP": "1.048"
+      },
+      "2022": {
+        "IF": "2.3",
+        "IF_5yr": "2.3",
+        "CiteScore": "3.3",
+        "SJR": "0.538",
+        "SNIP": "0.915"
+      },
+      "2023": {
+        "IF": "2.5",
+        "IF_5yr": "2.2",
+        "CiteScore": "4.1",
+        "SJR": "0.682",
+        "SNIP": "0.94"
+      },
+      "2024": {
+        "IF": "2.1",
+        "IF_5yr": "2.1",
+        "CiteScore": "4.4",
+        "SJR": "0.783",
+        "SNIP": "1.029"
+      }
+    }
+  },
   "JAS": {
     "journalTitle": "Journal of Animal Science",
     "metrics": {
