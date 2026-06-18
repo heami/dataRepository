@@ -166,15 +166,14 @@
   "JAP": {
     "journalTitle": "Journal of Advanced Prosthodontics",
     "ISSN": "2005-7806",
-    "sourceID": "",
+    "sourceID": "21100255399",
     "DB": "SCIE",
     "metrics": {
-      "2019": { "IF": "1.504" },
-      "2020": { "IF": "1.904" },
-      "2021": { "IF": "1.989" },
-      "2022": { "IF": "2.6" },
-      "2023": { "IF": "2.7", "Quartile": "Q1" },
-      "2024": { "IF": "2.5", "Quartile": "Q2" },
+      "2020": { "IF": "1.904", "IF_5yr": "2.247", "CiteScore": "3.1", "SJR": "0.624", "SNIP": "0.998" },
+      "2021": { "IF": "1.989", "IF_5yr": "2.562", "CiteScore": "3.6", "SJR": "0.619", "SNIP": "1.076" },
+      "2022": { "IF": "2.6", "IF_5yr": "3.0", "CiteScore": "3.9", "SJR": "0.784", "SNIP": "1.249" },
+      "2023": { "IF": "2.7", "Quartile": "Q1", "IF_5yr": "3.0", "CiteScore": "4.7", "SJR": "0.93", "SNIP": "1.16" },
+      "2024": { "IF": "2.5", "Quartile": "Q2", "IF_5yr": "3.2", "CiteScore": "4.6", "SJR": "0.852", "SNIP": "1.02" },
       "2025": { "IF": "2.0", "Quartile": "Q2", "IF_5yr": "3.9", "CiteScore": "4.6", "SJR": "0.772", "SNIP": "1.119" }
     }
   },
