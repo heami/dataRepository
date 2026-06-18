@@ -225,15 +225,14 @@
   "JPIS": {
     "journalTitle": "Journal of Periodontal and Implant Science",
     "ISSN": "2093-2278",
-    "sourceID": "",
+    "sourceID": "21100199820",
     "DB": "SCIE",
     "metrics": {
-      "2019": { "IF": "1.847" },
-      "2020": { "IF": "2.614" },
-      "2021": { "IF": "2.086" },
-      "2022": { "IF": "1.9" },
-      "2023": { "IF": "2.2", "Quartile": "Q2" },
-      "2024": { "IF": "3.2", "Quartile": "Q1" },
+      "2020": { "IF": "2.614", "IF_5yr": "2.240", "CiteScore": "3.3", "SJR": "0.686", "SNIP": "0.909" },
+      "2021": { "IF": "2.086", "IF_5yr": "2.607", "CiteScore": "3.7", "SJR": "0.592", "SNIP": "0.975" },
+      "2022": { "IF": "1.9", "IF_5yr": "2.3", "CiteScore": "2.6", "SJR": "0.402", "SNIP": "0.685" },
+      "2023": { "IF": "2.2", "Quartile": "Q2", "IF_5yr": "2.7", "CiteScore": "3.3", "SJR": "0.539", "SNIP": "0.89" },
+      "2024": { "IF": "3.2", "Quartile": "Q1", "IF_5yr": "2.8", "CiteScore": "3.9", "SJR": "0.794", "SNIP": "0.98" },
       "2025": { "IF": "3.1", "Quartile": "Q1", "IF_5yr": "2.9", "CiteScore": "5.0", "SJR": "0.906", "SNIP": "0.999" }
     }
   },
