@@ -181,15 +181,14 @@
   "JCN": {
     "journalTitle": "Journal of Clinical Neurology",
     "ISSN": "1738-6586",
-    "sourceID": "",
+    "sourceID": "21100213700",
     "DB": "SCIE",
     "metrics": {
-      "2019": { "IF": "2.439" },
-      "2020": { "IF": "3.077" },
-      "2021": { "IF": "2.566" },
-      "2022": { "IF": "3.1" },
-      "2023": { "IF": "2.9", "Quartile": "Q2" },
-      "2024": { "IF": "3.1", "Quartile": "Q2" },
+      "2020": { "IF": "3.077", "IF_5yr": "4.089", "CiteScore": "4.1", "SJR": "1.208", "SNIP": "1.950" },
+      "2021": { "IF": "2.566", "IF_5yr": "3.701", "CiteScore": "4.1", "SJR": "0.616", "SNIP": "0.959" },
+      "2022": { "IF": "3.1", "IF_5yr": "3.3", "CiteScore": "4.2", "SJR": "0.76", "SNIP": "1.051" },
+      "2023": { "IF": "2.9", "Quartile": "Q2", "IF_5yr": "2.8", "CiteScore": "4.5", "SJR": "0.673", "SNIP": "1.03" },
+      "2024": { "IF": "3.1", "Quartile": "Q2", "IF_5yr": "2.9", "CiteScore": "5.1", "SJR": "0.937", "SNIP": "1.02" },
       "2025": { "IF": "3.6", "Quartile": "Q2", "IF_5yr": "3.4", "CiteScore": "5.3", "SJR": "0.939", "SNIP": "1.080" }
     }
   },
