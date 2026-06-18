@@ -100,7 +100,7 @@
       "2022": { "IF": "2.4", "IF_5yr": "2.7", "CiteScore": "4.6", "SJR": "0.735", "SNIP": "0.874" },
       "2023": { "IF": "2.2", "IF_5yr": "2.2", "CiteScore": "4.6", "SJR": "0.735", "SNIP": "0.874" },
       "2024": { "IF": "2.4", "IF_5yr": "2.2", "CiteScore": "4.0", "SJR": "0.794", "SNIP": "0.80" },
-      "2025": { "IF": "2.0", "IF_5yr": "", "CiteScore": "4.7", "SJR": "0.890", "SNIP": "1.102"}
+      "2025": { "IF": "3.6", "IF_5yr": "2.7", "Oncology": "Q2", "Journal Citation Indicator": "Q3", "CiteScore": "4.7", "SJR": "0.890", "SNIP": "1.102"}
     }
   },
 }
