@@ -87,7 +87,7 @@
       "2022": { "IF": "2.3", "IF_5yr": "2.3", "CiteScore": "3.3", "SJR": "0.538", "SNIP": "0.915" },
       "2023": { "IF": "2.5", "Quartile": "Q2", "IF_5yr": "2.2", "CiteScore": "4.1", "SJR": "0.682", "SNIP": "0.94" },
       "2024": { "IF": "2.1", "Quartile": "Q2", "IF_5yr": "2.1", "CiteScore": "4.4", "SJR": "0.783", "SNIP": "1.029" },
-      "2025": { "IF": "2.9", "Quartile": "Q2", "IF_5yr": "2.6", "CiteScore": "", "SJR": "", "SNIP": "" }
+      "2025": { "IF": "2.9", "Quartile": "Q2", "IF_5yr-non": "2.6", "CiteScore": "", "SJR": "", "SNIP": "" }
     }
   },
   "JBC": {
